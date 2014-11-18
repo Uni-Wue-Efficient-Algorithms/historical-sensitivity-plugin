@@ -1,0 +1,10 @@
+[general]
+name=HistoricalSensitivity
+email=benedikt.budig@uni-wuerzburg.de
+author=Benedikt Budig
+qgisMinimumVersion=2.0
+description=This plugin takes a layer with assignments and their corresponding 
+            sensitivity values and presents them in ascending order to the user.
+version=version 0.1
+icon=icon.png
+
