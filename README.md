@@ -32,8 +32,9 @@ attribute can be presented using this plugin.
 In the `Tests` folder, two examples for historical map data with assignment 
 sensitivities are provided.
 
+<!--
 Acknowledgements
 ----------------
 Thanks to the [University Library Würzburg](http://www.bibliothek.uni-wuerzburg.de/) for 
 providing the beautiful historical maps for testing!
-
+-->
