@@ -1,6 +1,6 @@
 HistoricalSensitivity plugin for QGIS
 =====================================
-Author: [Benedikt Budig] / Universität Würzburg
+Author: [Benedikt Budig](http://www1.informatik.uni-wuerzburg.de/en/staff/budig_benedikt/) / Universität Würzburg
 
 This plugin for [QGIS](http://www.qgis.org/) takes a layer with assignments and 
 their corresponding sensitivity values and presents them in ascending order to 
