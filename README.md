@@ -2,6 +2,8 @@ HistoricalSensitivity plugin for QGIS
 =====================================
 Author: [Benedikt Budig](http://www1.informatik.uni-wuerzburg.de/en/staff/budig_benedikt/) / Universität Würzburg
 
+![Screenshot](/screenshot.jpg?raw=true "Screenshot")
+
 This plugin for [QGIS](http://www.qgis.org/) takes a layer with assignments and 
 their corresponding sensitivity values and presents them in ascending order to 
 the user.
@@ -32,9 +34,8 @@ attribute can be presented using this plugin.
 In the `Tests` folder, two examples for historical map data with assignment 
 sensitivities are provided.
 
-<!--
 Acknowledgements
 ----------------
 Thanks to the [University Library Würzburg](http://www.bibliothek.uni-wuerzburg.de/) for 
 providing the beautiful historical maps for testing!
--->
+
